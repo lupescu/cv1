@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This is the LGE IMS feature indicating that the device can support RCS service. -->
+<permissions>
+    <feature name="com.lge.ims.rcs" />
+    <interface>
+        <version>3</version>
+
+        <added>
+            <class name=""/>
+                <method name=""/>
+                    <param name="" type=""/>
+        </added>
+
+    </interface>
+    <feature name="com.lge.ims.service.eab" />
+
+	<rcsversion>
+		<rcsprofile operator ="VDF" version = "blackbird" />
+		<rcsprofile operator ="DTAG" version = "blackbird" />
+	</rcsversion>
+
+	<simoperator>
+	    <siminfo mcc="450" mnc="00" operator="TMUS" country="US" prefix="1"/>
+	    <siminfo mcc="001" mnc="01" operator="TMUS" country="US" prefix="1"/>
+	    <siminfo mcc="310" mnc="160" operator="TMUS" country="US" prefix="1"/>
+	    <siminfo mcc="310" mnc="200" operator="TMUS" country="US" prefix="1"/>
+	    <siminfo mcc="310" mnc="210" operator="TMUS" country="US" prefix="1"/>
+	    <siminfo mcc="310" mnc="220" operator="TMUS" country="US" prefix="1"/>
+	    <siminfo mcc="310" mnc="230" operator="TMUS" country="US" prefix="1"/>
+	    <siminfo mcc="310" mnc="240" operator="TMUS" country="US" prefix="1"/>
+	    <siminfo mcc="310" mnc="250" operator="TMUS" country="US" prefix="1"/>
+	    <siminfo mcc="310" mnc="260" operator="TMUS" country="US" prefix="1"/>
+	    <siminfo mcc="310" mnc="270" operator="TMUS" country="US" prefix="1"/>
+	    <siminfo mcc="310" mnc="300" operator="TMUS" country="US" prefix="1"/>
+	    <siminfo mcc="310" mnc="310" operator="TMUS" country="US" prefix="1"/>
+	    <siminfo mcc="310" mnc="660" operator="TMUS" country="US" prefix="1"/>
+	    <siminfo mcc="310" mnc="800" operator="TMUS" country="US" prefix="1"/>
+	</simoperator>
+
+</permissions>

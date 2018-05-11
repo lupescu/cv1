@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<profiles>
+    <profile>
+        <siminfo operator="OPEN" country="Default" mcc="450" mnc="00" />
+        <siminfo operator="SKTelecom" country="Default" mcc="450" mnc="05" />
+        <siminfo operator="KTF" country="Default" mcc="450" mnc="08" />
+        <siminfo operator="LGT" country="KR" mcc="450" mnc="06" />
+        <receive_advertisement_visible>0</receive_advertisement_visible>
+        <smsc_address_visible>0</smsc_address_visible>
+        <mms_group_message_value>1</mms_group_message_value>
+        <sms_validity_period_visible>0</sms_validity_period_visible>
+        <online_album>1</online_album>
+        <online_album_address_value>222</online_album_address_value>
+        <wifi_calling>1</wifi_calling>
+    </profile>
+    <profile>
+        <siminfo operator="TMO" country="US" mcc="310" mnc="260" />
+        <sms_validity_period_visible>0</sms_validity_period_visible>
+        <online_album>1</online_album>
+        <online_album_address_value>222</online_album_address_value>
+        <wifi_calling>1</wifi_calling>
+        <receive_advertisement_visible>0</receive_advertisement_visible>
+    </profile>
+</profiles>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<profiles>
+    <profile>
+        <siminfo operator="TMO" country="US" mcc="310" mnc="260" />
+        <sms_dr>0</sms_dr>
+        <cb_on>0</cb_on>
+        <sms_concat>12</sms_concat>
+        <sms_char>1</sms_char>
+        <mms_dr_r>0</mms_dr_r>
+        <mms_dr_a>1</mms_dr_a>
+        <mms_rr_r>1</mms_rr_r>
+        <mms_rr_a>1</mms_rr_a>
+        <auto_retr>1</auto_retr>
+        <auto_retr_r>0</auto_retr_r>
+        <mms_priority>1</mms_priority>
+        <mms_validity>6</mms_validity>
+        <mms_creation>2</mms_creation>
+        <mms_size>1024</mms_size>
+        <slide_dur>5</slide_dur>
+        <recv_adv>1</recv_adv>
+        <push_on>1</push_on>
+        <smsc_readonly>1</smsc_readonly>
+        <sms_limit>200</sms_limit>
+        <mms_limit>20</mms_limit>
+        <mms_slide_num>20</mms_slide_num>
+        <mms_recipient_num>20</mms_recipient_num>
+    </profile>
+</profiles>

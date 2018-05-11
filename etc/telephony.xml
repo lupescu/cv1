@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<profiles>
+
+    <!-- Operator -->
+    <!-- No SIM or SIM Roaming default profile -->
+    <profile>
+        <siminfo operator="MPCS" country="US" mcc="450" mnc="00" gid="" spn="" imsi="" />
+        <item name="VMS">333</item>
+        <item name="RVMS"></item>
+        <item name="ECC_list">911,112</item>
+        <item name="ShortCodeCall">0,00</item>
+    </profile>
+
+    <!-- Default -->
+    <profile>
+        <siminfo operator="MPCS" country="US" mcc="" mnc="" gid="" spn="" imsi="" default="true" />
+        <item name="VMS">123</item>
+        <item name="RVMS"></item>
+        <item name="ECC_list">911,112</item>
+        <item name="ShortCodeCall">0,00</item>
+    </profile>
+
+</profiles>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="xml" name="mms_config" id="0x7f020000" />
+    <public type="xml" name="mms_features" id="0x7f020002" />
+    <public type="xml" name="mms_non_gpri" id="0x7f020003" />
+    <public type="string" name="app_label" id="0x7f030000" />
+</resources>

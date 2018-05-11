@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <feature name="com.lge.ims.imsphone" />
+    <feature name="com.lge.server.ims" />
+
+    <feature name="com.lge.ims.volte" />
+    <feature name="com.lge.ims.vt" />
+    <feature name="com.lge.ims.service.eab" />
+
+    <feature name="com.lge.ims.media.evs" />
+    <feature name="com.lge.ims.mmpfservice" />
+</permissions>
