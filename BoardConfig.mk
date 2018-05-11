@@ -29,7 +29,7 @@ BOARD_MKBOOTIMG_ARGS := --kernel_offset 0x00008000 --ramdisk_offset 0x01000000 -
 TARGET_KERNEL_ARCH := arm
 TARGET_KERNEL_APPEND_DTB := true
 TARGET_KERNEL_CONFIG := cv1_lao_com-perf_defconfig
-TARGET_KERNEL_SOURCE := kernel/msm-3.18
+TARGET_KERNEL_SOURCE := kernel/lge/cv1
 
 
 # Audio
